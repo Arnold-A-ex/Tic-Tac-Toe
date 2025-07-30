@@ -221,7 +221,7 @@ export default function SinglePlayer({ setMode }) {
     return (
         <>
             { winner && <Confetti /> }
-            <h2>Single Player</h2>
+            {/* <h1>Single Player</h1> */}
             <section className="grid-container">
                 <div className="grid">
                     { grid }

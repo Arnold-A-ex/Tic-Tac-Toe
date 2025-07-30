@@ -117,7 +117,7 @@ export default function MultiPlayer({ setMode }) {
     return (
         <>
             { winner && <Confetti /> }
-            <h2>Multi Player</h2>
+            {/* <h2>Multi Player</h2> */}
             <section className="grid-container">
                 <div className="grid">
                     { grid }
