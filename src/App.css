@@ -13,7 +13,7 @@ body{
     min-height: 80vh;
     padding: 20px;
     justify-content: space-between;
-    font-family: cursive;
+    font-family: "Courier New", monospace;
     width: 100%;
 }
 .game-board h1{
@@ -46,6 +46,8 @@ body{
     background-color: #6F7BDB;
     cursor: pointer;
     color: #1B1C1E;
+    font-family: "Courier New", monospace !important;
+    font-weight: bold;
 }
 .mode-selection button:hover{
     transform: translateY(-5px);
@@ -58,6 +60,7 @@ body{
     margin: 15px auto;
     position: relative;
     transition: all 5s ease;
+    font-family: "Lucinda Console", monospace !important;
 }
 .grid{
     display: grid;
@@ -128,6 +131,8 @@ body{
     background-color: #6F7BDB;
     cursor: pointer;
     color: #1B1C1E;
+    font-family: "Courier New", monospace;
+    font-weight: bold;
 }
 .restart:hover, .undo:hover{
     transform: translateY(-2px);
