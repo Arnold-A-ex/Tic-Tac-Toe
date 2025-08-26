@@ -35,11 +35,11 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone [https://github.com/Arnold-A-ex/Tic-Tac-Toe.git](https://github.com/Arnold-A-ex/Tic-Tac-Toe.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd YOUR_REPOSITORY_NAME
+    cd Tic-Tac-Toe
     ```
 3.  **Install dependencies:**
     ```bash
@@ -54,7 +54,7 @@ To run this project locally, follow these steps:
     yarn start
     ```
 
-    This will open the application in your browser at `http://localhost:3000`.
+    This will open the application in your browser at `http://localhost:5174`.
 
 ## Code Structure
 
